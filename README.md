@@ -28,6 +28,8 @@ configure tailwind.config.js
  5. I got an error after this step: ==> Unable to resolve module react-native-screens.
  Solution:
  npm install --save react-native-gesture-handler react-native-reanimated react-native-screens
+ 
+ 7. Icons: yarn add react-native-heroicons react-native-svg
    
  6. Run expo-start. to run the simulator.
 
